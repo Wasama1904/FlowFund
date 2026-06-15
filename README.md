@@ -61,8 +61,9 @@ Key insights implemented:
 - Goal tracking with progress indicators
 - Budget alerts & notifications
 - Multi-currency support concepts
--Shared budgeting framework
+- Shared budgeting framework
 
+---
 
 ✨ Core Features
 
@@ -76,6 +77,8 @@ Key insights implemented:
 - Achievement Badges: Gamified rewards for financial milestones
 - Personalization: Dark mode, currency preferences, custom insights
 - Offline First: All data stored locally for privacy and speed
+
+---
 
 🏗️ System Architecture
 
@@ -109,7 +112,7 @@ FlowFund implements MVVM architecture for clean separation of concerns and maint
 
 ---
 
-Goals Module
+📈 Goals Module
 - Savings goal creation and tracking
 
 Categories Module 
@@ -172,8 +175,6 @@ For testing purposes: test@flowfund.com / Test1234
 📄 Conclusion
 
 FlowFund combines research-driven design with practical MVVM implementation to deliver a user-friendly personal finance solution. By focusing on visual feedback, gamification through badges, and clear financial insights, the app encourages responsible spending and supports long-term financial goals.
-
----
 
 ---
 📜 License

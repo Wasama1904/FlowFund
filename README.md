@@ -1,24 +1,27 @@
 💰 FlowFund - Personal Budgeting Application
 Module: OPSC6311 | Group Project | Android Development
 
+<img width="261" height="298" alt="Picture1" src="https://github.com/user-attachments/assets/b972bf7b-63b2-468f-b98f-02e2a7654d2d" />
+
+
 FlowFund is an Android-based personal finance management application designed to help users track income and expenses, manage budgets, create savings goals, organize spending categories, earn achievement badges, and visualize financial data through intuitive charts and analytics.
 
-📱 Demo
-Dashboard
+📱Dashboard
+
+<img width="366" height="759" alt="Screenshot 2026-06-15 174616" src="https://github.com/user-attachments/assets/5be324c6-2c3f-47e7-8a23-4af7066528f7" />
+<img width="366" height="758" alt="Screenshot 2026-06-15 174635" src="https://github.com/user-attachments/assets/1b28d794-d4e2-4281-88e8-53d34301a287" />
 
 Transactions
 
+<img width="366" height="759" alt="Screenshot 2026-06-15 174652" src="https://github.com/user-attachments/assets/76d8f4bc-b45b-45ff-8742-32d655b6beb7" />
+
 Goals
+
+<img width="366" height="757" alt="Screenshot 2026-06-15 174727" src="https://github.com/user-attachments/assets/05c34007-ee1d-4c1c-81c4-8b6e0d26888f" />
 
 Budgets
 
-Add screenshot
-
-Add screenshot
-
-Add screenshot
-
-Add screenshot
+<img width="368" height="757" alt="Screenshot 2026-06-15 174707" src="https://github.com/user-attachments/assets/1dae29da-3bbd-4537-b36a-1cff1a79c53b" />
 
 👥 Group Members
 ST10457568 – Tinotenda Marumahoko

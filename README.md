@@ -176,6 +176,10 @@ For testing purposes: test@flowfund.com / Test1234
 
 FlowFund combines research-driven design with practical MVVM implementation to deliver a user-friendly personal finance solution. By focusing on visual feedback, gamification through badges, and clear financial insights, the app encourages responsible spending and supports long-term financial goals.
 
+
+
+
+
 ---
 📜 License
 ---

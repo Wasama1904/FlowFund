@@ -41,6 +41,12 @@ ST10438423 – Liam Frans
 
 ---
 
+🎬 Demonstration Video
+
+Youtube Link: https://youtu.be/6AmjEgPPVMs?si=IZssGe81FrhMGCvR
+
+---
+
 🔍 Research Foundation
 
 System design was informed by analysis of industry-leading apps including Mint, YNAB, and Wallet by BudgetBakers. 

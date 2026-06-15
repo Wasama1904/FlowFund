@@ -1,9 +1,10 @@
+
 💰 FlowFund - Personal Budgeting Application
 Module: OPSC6311 | Group Project | Android Development
 
 ---
 
-<img width="261" height="298" alt="Picture1" src="https://github.com/user-attachments/assets/b972bf7b-63b2-468f-b98f-02e2a7654d2d" />
+<img width="754" height="704" alt="FLOWFUND (1)" src="https://github.com/user-attachments/assets/101b7f52-b3a8-45c6-858d-fe08c851f202" />
 
 FlowFund is an Android-based personal finance management application designed to help users track income and expenses, manage budgets, create savings goals, organize spending categories, earn achievement badges, and visualize financial data through intuitive charts and analytics.
 

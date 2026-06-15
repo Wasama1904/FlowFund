@@ -141,13 +141,11 @@ MainActivity
 
 🚀 Getting Started
 
-Prerequisites
+APK Download Link:
 
-- Android Studio Hedgehog | 2023.1.1 or newer
-- Minimum SDK: 24 [Android 7.0]
-- Target SDK: 34 [Android 14]
+- https://github.com/Wasama1904/FlowFund/releases/download/flowfund/flowfund-v1.0.0.apk
 
-Installation
+Installation From Github:
 
 - Clone the repository
 - Bash
@@ -156,8 +154,6 @@ Installation
 - Sync Gradle and build project
 - Run on emulator or physical device
 - Default Login
-
-For testing purposes: test@flowfund.com / Test1234
 
 ---
 

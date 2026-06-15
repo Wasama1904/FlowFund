@@ -119,7 +119,7 @@ Target SDK: 34 [Android 14]
 Installation
 Clone the repository
 Bash
-git clone https://github.com/yourusername/FlowFund.git
+git clone https://github.com/Wasama1904/FlowFund.git
 Open project in Android Studio
 Sync Gradle and build project
 Run on emulator or physical device

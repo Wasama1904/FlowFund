@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="100dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="8dp">
+
+    <ImageView
+        android:id="@+id/ivBadgeIcon"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:src="@drawable/ic_badge_budget"
+        android:contentDescription="Badge icon" />
+
+    <TextView
+        android:id="@+id/tvBadgeName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:text="Budget Master"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:maxLines="2"
+        android:ellipsize="end"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/tvBadgeDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="June 2024"
+        android:textSize="10sp"
+        android:textColor="?android:attr/textColorSecondary" />
+
+</LinearLayout>

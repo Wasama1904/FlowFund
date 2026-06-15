@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="4dp"
+    app:cardCornerRadius="8dp"
+    app:cardElevation="2dp">
+
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:orientation="vertical" android:padding="16dp">
+
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:orientation="horizontal" android:layout_marginBottom="8dp">
+            <TextView android:id="@+id/tvBudgetCategory"
+                android:layout_width="0dp" android:layout_height="wrap_content"
+                android:layout_weight="1" android:textSize="18sp" android:textStyle="bold"/>
+            <TextView android:id="@+id/tvBudgetLimit"
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:textColor="@color/primary"/>
+        </LinearLayout>
+
+        <ProgressBar android:id="@+id/budgetProgress"
+            style="@android:style/Widget.ProgressBar.Horizontal"
+            android:layout_width="match_parent" android:layout_height="12dp"
+            android:max="100" android:layout_marginBottom="8dp"/>
+
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:orientation="horizontal" android:layout_marginBottom="4dp">
+            <TextView android:id="@+id/tvBudgetSpent"
+                android:layout_width="0dp" android:layout_height="wrap_content"
+                android:layout_weight="1" android:textColor="@color/text_secondary"/>
+            <TextView android:id="@+id/tvBudgetRemaining"
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:textStyle="bold"/>
+        </LinearLayout>
+
+        <TextView android:id="@+id/tvMinMax"
+            android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:textSize="12sp" android:textColor="@color/text_secondary"
+            android:layout_marginBottom="4dp"/>
+
+        <TextView android:id="@+id/tvBudgetAlert"
+            android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:textStyle="bold" android:visibility="gone" android:layout_marginBottom="4dp"/>
+
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:orientation="horizontal" android:gravity="end">
+            <Button android:id="@+id/btnEditBudget"
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:text="Edit" style="@style/Widget.MaterialComponents.Button.TextButton"
+                android:textSize="12sp"/>
+            <Button android:id="@+id/btnDeleteBudget"
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:text="Delete" style="@style/Widget.MaterialComponents.Button.TextButton"
+                android:textColor="#F44336" android:textSize="12sp"/>
+        </LinearLayout>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/dashboardFragment">
+
+    <fragment
+        android:id="@+id/dashboardFragment"
+        android:name="com.flowfund.app.ui.dashboard.DashboardFragment"
+        android:label="Dashboard"/>
+
+    <fragment
+        android:id="@+id/transactionsFragment"
+        android:name="com.flowfund.app.ui.transactions.TransactionsFragment"
+        android:label="Transactions"/>
+
+    <fragment
+        android:id="@+id/budgetFragment"
+        android:name="com.flowfund.app.ui.budget.BudgetFragment"
+        android:label="Budget"/>
+
+    <fragment
+        android:id="@+id/categoriesFragment"
+        android:name="com.flowfund.app.ui.categories.CategoriesFragment"
+        android:label="Categories"/>
+
+    <fragment
+        android:id="@+id/goalsFragment"
+        android:name="com.flowfund.app.ui.goals.GoalsFragment"
+        android:label="Goals"/>
+
+    <!-- NEW: Badge screen -->
+    <fragment
+        android:id="@+id/badgeFragment"
+        android:name="com.flowfund.app.ui.badges.BadgeFragment"
+        android:label="Badges"/>
+
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.flowfund.app.ui.settings.SettingsFragment"
+        android:label="Settings" />
+
+</navigation>

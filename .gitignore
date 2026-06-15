@@ -1,0 +1,19 @@
+# Gradle / Android build outputs
+.gradle/
+build/
+**/build/
+**/out/
+
+# Local configuration
+local.properties
+.idea/
+*.iml
+
+# Android Studio / IntelliJ caches
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Generated / logs
+*.log
+

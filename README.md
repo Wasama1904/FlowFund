@@ -177,7 +177,7 @@ FlowFund combines research-driven design with practical MVVM implementation to d
 
 📜 License
 
-This project is submitted for academic purposes as part of OPSC6311 POE at IIE Varsity College.
+This project is submitted for academic purposes as part of OPSC6311 POE at IIE Rosebank College.
 
 
 ---
